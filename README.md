@@ -5,12 +5,13 @@
 - [DBeaver连接postgresql](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-09%20DBeaver%E9%93%BE%E6%8E%A5postgresql.md)
 - [单机安装](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-06%20LightDB%E5%8D%95%E6%9C%BA%E5%AE%89%E8%A3%85.md)
 - [单机版启动停止](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-09%20LightDB%E5%8D%95%E6%9C%BA%E7%89%88%E5%90%AF%E5%81%9C.md)
-- [高可用版本安装]()
+- [高可用版本安装](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E9%AB%98%E5%8F%AF%E7%94%A8%E7%89%88%E6%9C%AC%E5%AE%89%E8%A3%85.md)
+- [高可用常用操作](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E9%AB%98%E5%8F%AF%E7%94%A8%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.md)
 ### 数据库操作
 #### LightDB SQL操作
 - [创建数据库](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-09%20LightDB%E5%88%9B%E5%BB%BA%E6%95%B0%E6%8D%AE%E5%BA%93.md)
-- [访问数据库]()
-- [创建和删除表]()
-- [插入数据]()
-- [查询数据]()
+- [访问数据库](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E8%AE%BF%E9%97%AE%E6%95%B0%E6%8D%AE%E5%BA%93.md)
+- [创建和删除表](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E5%88%9B%E5%BB%BA%E5%92%8C%E5%88%A0%E9%99%A4%E8%A1%A8.md)
+- [插入数据](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E6%8F%92%E5%85%A5%E6%95%B0%E6%8D%AE.md)
+- [查询数据](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE.md)
 - 
