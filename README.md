@@ -6,7 +6,9 @@
 - [单机安装](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-06%20LightDB%E5%8D%95%E6%9C%BA%E5%AE%89%E8%A3%85.md)
 - [单机版启动停止](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-09%20LightDB%E5%8D%95%E6%9C%BA%E7%89%88%E5%90%AF%E5%81%9C.md)
 - [高可用版本安装](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E9%AB%98%E5%8F%AF%E7%94%A8%E7%89%88%E6%9C%AC%E5%AE%89%E8%A3%85.md)
-- [高可用常用操作](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E9%AB%98%E5%8F%AF%E7%94%A8%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.md)
+- [高可用常用操作-监控](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E9%AB%98%E5%8F%AF%E7%94%A8%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C.md)
+- [高可用常用操作-管理](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E9%AB%98%E5%8F%AF%E7%94%A8%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C-%E7%AE%A1%E7%90%86.md)
+
 ### 数据库操作
 #### LightDB SQL操作
 - [创建数据库](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-09%20LightDB%E5%88%9B%E5%BB%BA%E6%95%B0%E6%8D%AE%E5%BA%93.md)
