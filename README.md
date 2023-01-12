@@ -21,4 +21,4 @@
 
 
 #### 进阶篇 
-- [数据库锁]()
+- [数据库锁](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-12%20%E6%95%B0%E6%8D%AE%E5%BA%93%E9%94%81.md)
