@@ -10,6 +10,9 @@
 - [高可用常用操作-管理](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E9%AB%98%E5%8F%AF%E7%94%A8%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C-%E7%AE%A1%E7%90%86.md)
 - [NTP服务搭建](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-12%20NTP%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA.md)
 - [分布式部署-常规模式](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-13%20LightDB%E5%88%86%E5%B8%83%E5%BC%8F%E9%83%A8%E7%BD%B2.md)
+- [分布式部署-多机单实例模式](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-16%20LightDB%E5%88%86%E5%B8%83%E5%BC%8F%E9%83%A8%E7%BD%B2-%E5%A4%9A%E6%9C%BA%E5%8D%95%E5%AE%9E%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
+- [分布式部署-单机多实例模式](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-16%20LightDB%E5%88%86%E5%B8%83%E5%BC%8F%E9%83%A8%E7%BD%B2-%E5%8D%95%E6%9C%BA%E5%A4%9A%E5%AE%9E%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
+
 
 ### 数据库操作
 #### 基础篇
