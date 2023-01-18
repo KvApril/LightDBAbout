@@ -17,6 +17,7 @@
 
 ### 数据库操作
 #### 基础篇
+- [常用命令](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-17%20LightDB%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
 - [创建数据库](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-09%20LightDB%E5%88%9B%E5%BB%BA%E6%95%B0%E6%8D%AE%E5%BA%93.md)
 - [访问数据库](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E8%AE%BF%E9%97%AE%E6%95%B0%E6%8D%AE%E5%BA%93.md)
 - [创建和删除表](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E5%88%9B%E5%BB%BA%E5%92%8C%E5%88%A0%E9%99%A4%E8%A1%A8.md)
