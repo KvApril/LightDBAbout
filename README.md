@@ -14,6 +14,8 @@
 - [分布式部署-多机单实例模式](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-16%20LightDB%E5%88%86%E5%B8%83%E5%BC%8F%E9%83%A8%E7%BD%B2-%E5%A4%9A%E6%9C%BA%E5%8D%95%E5%AE%9E%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 - [分布式部署-单机多实例模式](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-16%20LightDB%E5%88%86%E5%B8%83%E5%BC%8F%E9%83%A8%E7%BD%B2-%E5%8D%95%E6%9C%BA%E5%A4%9A%E5%AE%9E%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 
+### LightDB EM相关
+- [EM监控安装](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-30%20LightDB%20EM%E5%AE%89%E8%A3%85.md)
 
 ### 数据库操作
 #### 基础篇
@@ -23,7 +25,7 @@
 - [创建和删除表](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E5%88%9B%E5%BB%BA%E5%92%8C%E5%88%A0%E9%99%A4%E8%A1%A8.md)
 - [插入数据](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E6%8F%92%E5%85%A5%E6%95%B0%E6%8D%AE.md)
 - [查询数据](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-10%20LightDB%E6%9F%A5%E8%AF%A2%E6%95%B0%E6%8D%AE.md)
-
+- [时间类型操作](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-29%20%E6%97%B6%E9%97%B4%E7%B1%BB%E5%9E%8B%E6%93%8D%E4%BD%9C.md)
 
 #### 进阶篇 
 - [数据库锁](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-12%20%E6%95%B0%E6%8D%AE%E5%BA%93%E9%94%81.md)
