@@ -16,6 +16,8 @@
 
 ### LightDB EM相关
 - [EM监控安装](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-30%20LightDB%20EM%E5%AE%89%E8%A3%85.md)
+- [Agent安装](https://github.com/KvApril/LightDBAbout/blob/main/2023-01-31%20LightDB%20Agent%E5%AE%89%E8%A3%85.md)
+
 
 ### 数据库操作
 #### 基础篇
