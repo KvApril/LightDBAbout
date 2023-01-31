@@ -83,6 +83,8 @@ drwxrwxr-x 2 lightdb lightdb     29 1月  31 12:46 gc
 
 等待安装成功，刷新页面，可以看到多了一些菜单
 ![img.png](images/add_instance_single_after.png)
+
+![img.png](images/instance_single_cluster_topology.png)
 (ps:如果发现一直安装失败，可以登录服务器，在agent安装路径下，看一下logs文件夹下的日志)
 ```sql
 [lightdb@localhost instance]$ cd /usr/local/lightdb/agent/instance/agent/
